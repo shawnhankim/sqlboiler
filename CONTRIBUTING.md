@@ -1,3 +1,9 @@
+---
+noteId: "6f926df0bf4811eb8801452efacabb31"
+tags: []
+
+---
+
 # Contributing
 
 Thanks for your interest in contributing to SQLBoiler!

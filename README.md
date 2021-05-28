@@ -1,3 +1,9 @@
+---
+noteId: "6f929500bf4811eb8801452efacabb31"
+tags: []
+
+---
+
 ![sqlboiler logo](https://i.imgur.com/lMXUTPE.png)
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/volatiletech/sqlboiler/blob/master/LICENSE)
